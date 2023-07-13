@@ -1,119 +1,119 @@
 # privacy-policy-for-workforce-app
-Политика конфиденциальности
-ООО «Karsoft IT-Solutions» , правообладатель исключительных прав на программу ЭВМ «Navixy 
-Server» (далее – Программа или ПО), уважает Ваше право на конфиденциальность личной 
-информации. Компания «Karsoft IT-Solutions» осознаёт важность защиты информации, 
-полученной от Вас и утвердила данную Политику конфиденциальности (далее — «Политика») 
-для информирования Вас об использовании Вашей личной информации.
-Политика распространяется на Web-сайты, службы и продукты Компании «Karsoft IT-Solutions» 
-(далее – Сервисы), которые осуществляют сбор сведений и включают настоящий документ или 
-ссылку на него, а также на службу технической поддержки в оффлайн-режиме. Политика не 
-распространяется на Web-сайты, службы и продукты Компании «Karsoft IT-Solutions», которые 
-не содержат настоящего документа или ссылок на него, либо содержат иное положение о 
-конфиденциальности. Политика является неотъемлемой частью договоров, которые ее 
-включают и применяется только в связи с ними.
-Используя ПО и Сервисы Компании «Karsoft IT-Solutions» любым способом и/или проходя 
-процедуру регистрации в ПО и Сервисах, Вы подтверждаете, что прочитали, поняли, 
-согласились и безоговорочно приняли настоящую Политику и все её условия. Если Вы не 
-согласны с какими-либо положениями настоящей Политики, у вас нет права на дальнейшее 
-пользование ПО и Сервисов Компании «Karsoft IT-Solutions».
-Персональные данные
-Компания «Karsoft IT-Solutions» собирает и обрабатывает Ваши персональные данные (а 
-именно: фамилия, имя, контактные телефоны, уникальный идентификатор устройства), лишь в 
-целях выполнения условий договоров.
-Для выполнения обязательств по договорам Компания «Karsoft IT-Solutions» получает Ваше 
-согласие на сбор и обработку персональных данных. Вы в свою очередь даете согласие 
-Компании «Karsoft IT-Solutions» на сбор и обработку персональных данных.
-Доступ к Вашим персональным данным имеют лица, непосредственно осуществляющие 
-обработку персональных данных. Компания «Karsoft IT-Solutions» обязуется соблюдать 
-конфиденциальность в отношении персональных данных; не допускать попытки 
-несанкционированного использования персональных данных третьими лицами.
-Вы можете отозвать согласие на использование персональных данных. Вы этом случае 
-Компания «Karsoft IT-Solutions» уничтожает персональные данные, а Вы соглашаетесь с тем, 
-что это может отрицательно повлиять на качество работы ПО и сервисов, а также может 
-вызвать невозможность доступа к ПО, сервисам и информации.
-Защита данных
-Компания «Karsoft IT-Solutions» предпринимает все необходимые меры для должного и 
-безопасного хранения собираемой личной информации в соответствии с положениями 
-настоящей Политики. Вся предоставляемая Вами информация хранится на серверах Компании 
-«Karsoft IT-Solutions» на территории Российской Федерации.
-Вы обязуетесь не раскрывать и не передавать третьим лицам свои логины и пароли, по 
-которым возможна Ваша авторизация в ПО и Сервисах. Вы полностью ответственны за 
-хранение данных своей Учетной записи.
-В случае если Вам станет известно о фактах завладения данными Вашей Учетной записи или 
-иной личной информации третьими лицами, Вы немедленно должны сообщить о таких 
-обстоятельствах Компании «Karsoft IT-Solutions» для принятия должных мер безопасности. При 
-этом Компания «Karsoft IT-Solutions» не несет ответственность за использование такой 
-информации.
-Параметры сообщений
-Вы соглашаетесь на получение информации, касающейся работы ПО и Сервисов, изменений 
-в условиях их использования, уведомлений о технических неисправностях и обновлениях ПО, 
-новостей и специальных предложениях. Такое информирование может осуществляться по 
-электронным каналам (Push-уведомления в мобильных приложениях и т.п.).
-Вы можете настраивать персонализированные уведомления о значимых для Вас событиях в 
-связи с использованием ПО и Сервисов, например, о посещении объектом наблюдения 
-геозоны или низком состоянии баланса Учетной записи. Вы несете ответственность за 
-правильность и право использования указываемой контактной информации для таких 
-сообщений.
-В любой момент Вы можете изменить контактные данные или отказаться от получения 
-информационных сообщений через настройки ваших предпочтений в ПО и Сервисах, 
-специальным ссылкам в конце информационных сообщений или Вашим прямым запросом в 
-Службу поддержки.
-Данные о местоположении
-При использовании большинства функций ПО и Сервисов Компании «Karsoft IT-Solutions»
-используется информация о местонахождении. При этом в Компанию «Karsoft IT-Solutions»
-отправляются имеющиеся данные глобальных систем позиционирования (GPS и др.), о вышке 
-сотовой связи, данные Wi-Fi, IP-адрес и другая информация, позволяющая определить Ваше 
-местонахождение.
-Некоторые службы могут давать вам возможность управления передачей информации о 
-местоположении в компанию «Karsoft IT-Solutions». Вы осознаете и соглашаетесь, что 
-прекращение отправки этой информации может нарушить или прекратить работу ПО и 
-Сервисов. Информацию о выключении сервисов определения местоположения можно найти в 
-документации по Вашим устройствам.
-Статистическая информация
-Компания «Karsoft IT-Solutions» может обезличивать и агрегировать информацию в целях 
-получения обезличенной статистики. При этом становится невозможным анализ использования 
-ПО и Сервисов конкретным персонифицированным пользователем. Обезличенная 
-статистическая информация может использоваться для маркетинговых исследований и 
-передаваться третьему лицу.
-Законодательство и внесение изменений
-При обработке Ваших персональных данных Компания «Karsoft IT-Solutions» руководствуется
-законом РЕСПУБЛИКИ УЗБЕКИСТАН «О персональных данных».
-Компания «Karsoft IT-Solutions» имеет право вносить изменения в настоящую Политику. При 
-внесении изменений в актуальной редакции указывается дата последнего обновления. Новая 
-редакция Политики вступает в силу с момента ее размещения, если иное не предусмотрено 
-новой редакцией Политики. Действующая редакция постоянно доступна на странице по 
-адресу https://github.com/atabekkr/privacy-policy-for-workforce-app/edit/main/README.md
-Контакты и внесение предложений
-Ваши вопросы и обращения по использованию персональной информации направляйте в 
-службу поддержки по электронному адресу karsoftuz@gmail.com,
+Privacy policy
+LLC "Karsoft IT-Solutions", the copyright holder of the exclusive rights to the computer program "Navixy 
+Server" (hereinafter referred to as the Program or Software), respects your right to privacy of personal
+information. Karsoft IT-Solutions is aware of the importance of protecting the information
+received from you and has approved this Privacy Policy (hereinafter referred to as the "Policy")
+to inform you about the use of your personal information.
+The policy applies to the websites, services and products of the Company "Karsoft IT-Solutions" 
+(hereinafter referred to as Services) that collect information and include this document or 
+a link to it, as well as to the technical support service in offline mode. The Policy does not
+apply to the websites, services and products of the Company "Karsoft IT-Solutions", which
+do not contain this document or links to it, or contain
+a different privacy statement. The Policy is an integral part of the contracts that
+include it and is applied only in connection with them.
+Using the Software and Services of the Company "Karsoft IT-Solutions" in any way and/or passing 
+the registration procedure in the Software and Services, you confirm that you have read, understood,
+agreed and unconditionally accepted this Policy and all its terms. If you do not
+agree with any provisions of this Policy, you do not have the right to continue
+using the Software and Services of Karsoft IT-Solutions.
+Personal data
+The company "Karsoft IT-Solutions" collects and processes your personal data (
+namely: last name, first name, contact numbers, unique device identifier), only for the
+purpose of fulfilling the terms of contracts.
+In order to fulfill the obligations under the contracts, Karsoft IT-Solutions receives your
+consent to the collection and processing of personal data. You, in turn, give your consent 
+The company "Karsoft IT-Solutions" for the collection and processing of personal data.
+Access to your personal data is provided by persons who directly
+process personal data. The company "Karsoft IT-Solutions" undertakes to maintain
+confidentiality with respect to personal data; to prevent attempts
+of unauthorized use of personal data by third parties.
+You can revoke your consent to the use of personal data. You are in this case 
+The company "Karsoft IT-Solutions" destroys personal data, and you agree
+that this may adversely affect the quality of the software and services, and may also
+cause the inability to access the software, services and information.
+Data Protection
+Karsoft IT-Solutions takes all necessary measures to properly and
+securely store the collected personal information in accordance with the provisions
+of this Policy. All the information you provide is stored on the Company's servers 
+"Karsoft IT-Solutions" on the territory of the Russian Federation.
+You agree not to disclose or transfer to third parties your usernames and passwords, by
+which your authorization in the Software and Services is possible. You are fully responsible for
+storing your Account data.
+If you become aware of the facts of the seizure of your Account data or
+other personal information by third parties, you must immediately inform
+Karsoft IT-Solutions about such circumstances in order to take appropriate security measures. By 
+At the same time, Karsoft IT-Solutions is not responsible for the use of such
+information.
+Message Parameters
+You agree to receive information regarding the operation of the Software and Services, changes
+in their terms of use, notifications of technical malfunctions and software updates,
+news and special offers. Such information can be provided via
+electronic channels (Push notifications in mobile applications, etc.).
+You can set up personalized notifications about events that are important to you in 
+communication with the use of software and Services, for example, about a visit by a surveillance object 
+geofences or low account balance status. You are responsible for
+the correctness and right to use the specified contact information for such
+messages.
+At any time, you can change your contact details or refuse to receive
+informational messages through the settings of your preferences in Software and Services,
+special links at the end of informational messages or by your direct request to 
+Support service.
+Location data
+When using most of the functions of the software and Services of the Company "Karsoft IT-Solutions"
+, location information is used. At the
+same time, the available data of global positioning systems (GPS, etc.) about the tower are sent to the Company "Karsoft IT-Solutions" 
+cellular data, Wi-Fi data, IP address and other information that allows you to determine your
+location.
+Some services may give you the ability to manage the transfer of
+location information to the company "Karsoft IT-Solutions". You understand and agree that 
+stopping sending this information may disrupt or terminate the software and 
+Services. Information about disabling location services can be found in
+the documentation for your devices.
+Statistical information
+The company "Karsoft IT-Solutions" can depersonalize and aggregate information in order
+to obtain depersonalized statistics. In this case, it becomes impossible to analyze the use of 
+Software and Services by a specific personalized user. Depersonalized
+statistical information can be used for marketing research and
+transferred to a third party.
+Legislation and amendments
+When processing your personal data, Karsoft IT-Solutions is guided
+by the Law of the REPUBLIC of UZBEKISTAN "On Personal Data".
+The company "Karsoft IT-Solutions" has the right to make changes to this Policy. When
+making changes in the current version, the date of the last update is indicated. The new
+version of the Policy comes into force from the moment it is posted, unless otherwise provided
+by the new version of the Policy. The current version is always available on the page at 
+address https://github.com/atabekkr/privacy-policy-for-workforce-app/edit/main/README.md
+Contacts and suggestions
+Please send your questions and requests regarding the use of personal information to the
+support service by e-mail karsoftuz@gmail.com,
 
-Эта политика конфиденциальности описывает, как "Kompaniya Injiniring" собирает, использует и раскрывает информацию, полученную от пользователей нашего мобильного приложения. Мы стремимся обеспечить защиту вашей личной информации и предоставить вам контроль над ней.
+This privacy policy describes how "Kompaniya Injiniring" collects, uses and discloses information received from users of our mobile application. We strive to protect your personal information and give you control over it.
 
-1. Собираемая информация
+1. Information collected
 
-1.1 Информация о местоположении: Наше приложение может собирать информацию о вашем местоположении, если вы даете соответствующее разрешение. Мы используем эту информацию для предоставления вам функций, связанных с геолокацией, таких как поиск ближайших объектов или определение маршрута.
+1.1 Location Information: Our app may collect information about your location if you give the appropriate permission. We use this information to provide you with geolocation-related functions, such as searching for nearby places or determining a route.
 
-2. Использование собранной информации
+2. Use of the collected information
 
-2.1 Предоставление услуг: Мы используем информацию о вашем местоположении для предоставления вам услуг, связанных с геолокацией, в рамках функциональности нашего приложения.
+2.1 Provision of Services: We use your location information to provide you with geolocation-related services within the functionality of our application.
 
-2.2 Улучшение приложения: Мы можем использовать собранную информацию для анализа и улучшения нашего приложения, включая его функциональность и производительность.
+2.2 Application Improvement: We may use the collected information to analyze and improve our application, including its functionality and performance.
 
-3. Раскрытие информации третьим лицам
+3. Disclosure of information to third parties
 
-3.1 Общая информация: Мы можем предоставлять общую информацию, не содержащую персональных данных, третьим лицам для целей анализа рынка, маркетинга или других коммерческих целей.
+3.1 General Information: We may provide general information that does not contain personal data to third parties for market analysis, marketing or other commercial purposes.
 
-3.2 Законодательство и безопасность: Мы можем раскрывать вашу информацию, если это требуется законом или если мы убеждены в том, что такие действия необходимы для соблюдения юридических процессов или защиты прав и безопасности "Kompaniya Injiniring", наших пользователей или общественности в целом.
+3.2 Legislation and Security: We may disclose your information if required by law or if we are convinced that such actions are necessary to comply with legal processes or to protect the rights and safety of "Kompaniya Injiniring", our users or the public in general.
 
-4. Безопасность
+4. Security
 
-Мы принимаем меры для защиты вашей личной информации от несанкционированного доступа, использования или раскрытия. Однако, пожалуйста, имейте в виду, что ни один метод передачи данных через интернет или метод электронного хранения не является абсолютно безопасным.
+We take measures to protect your personal information from unauthorized access, use or disclosure. However, please keep in mind that no method of data transmission over the Internet or method of electronic storage is absolutely secure.
 
-5. Изменения в политике конфиденциальности
+5. Changes to the Privacy Policy
 
-Мы можем время от времени обновлять нашу политику конфиденциальности. Любые изменения будут опубликованы на этой странице, и вы будете уведомлены о таких изменениях при следующем запуске приложения.
+We may update our privacy policy from time to time. Any changes will be posted on this page and you will be notified of such changes the next time you launch the app.
 
-Если у вас есть какие-либо вопросы или предложения относительно нашей политики конфиденциальности, пожалуйста, свяжитесь с нами по электронному адресу [karsoftuz@gmail.com].
+If you have any questions or suggestions regarding our privacy policy, please contact us by email [karsoftuz@gmail.com ].
 
-Спасибо за использование "Kompaniya Injiniring"!
+Thank you for using "Kompaniya Injiniring"!
